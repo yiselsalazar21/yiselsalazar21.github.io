@@ -1,9 +1,9 @@
 # yiselsalazar21.github.io
-##An online archive for technical languages
+## An online archive for technical languages
 
 Navigation Bar-----
 
-###Home Page: 
+### Home Page
 	Your online programming language archive
 	With a navigation bar where you can redirect to any page
 	An about the author when you scroll
@@ -12,7 +12,7 @@ Navigation Bar-----
 
 	The home page should have a description, but not too much where it looks overwhelming for one screen. This is why I am adding an "About the Archive" tab. If further information is wanted for the archive, it can be found there.
 
-###Most Popular: 
+### Most Popular 
 	Exact logistics in progress --->  
 	Initial thought process: 	
 		This page will have the top 10-15 programming languages
@@ -30,7 +30,7 @@ Navigation Bar-----
 					(What type of language is it, and is it developed from an older language? Why is it so popular?)
 
 
-###Browse Programming Languages:
+### Browse Programming Languages
 	Sort By: Creation date, Alphabetically
 
 	Each Item: 
@@ -39,7 +39,7 @@ Navigation Bar-----
 									Year of Make
 									Subcategories
 
-###Resources for Learning:
+### Resources for Learning
 	Some kind of searching feature (Search Bar)
 	The point of this page is to search for a language after seeing it in the browsing on the other tab. 
 
@@ -48,7 +48,7 @@ Navigation Bar-----
 	This is the chosen feature because there is so many languages that people have never even thought of. Being able to quickly search for resources all in one page would be a great feature. It would ease the searching process for software developers much easier as the resources would be hand picked and ready to use. 
 
 
-###About the Archive:
+### About the Archive
 	Why I chose this topic: 
 		For starters, I never realized the million programming languages that existed. When going through an existing list, I realized that I havent heard of 90% of existing programming languages, if not more. 
 		As I'm completing a software engineering internship, Ive learned that we constantly have to use languages we have never used before. We're expecting to know and master them based on previous knowledge from our common programming languages such as Python, Java, etc. 
