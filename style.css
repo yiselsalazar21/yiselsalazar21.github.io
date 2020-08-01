@@ -70,4 +70,6 @@
 
 .browse_words {
     padding: 100px;
+    height: 100vh;
+    min-height: 500px;
 }
