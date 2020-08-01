@@ -24,3 +24,41 @@
     text-align: center;
     color: #36273B;
 }
+
+.browse_background {
+    height: 100vh;
+    min-height: 500px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: #FFE4E1;
+}
+
+.popular_background {
+    height: 100vh;
+    min-height: 500px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: #BDE4E7;
+}
+
+.browse_container {
+    background-color:#f8c8d0;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    padding:100px;
+    width: 100%;
+;
+}
+
+.search-section {
+    padding: 40px 30px;
+    text-align: left;
+    color: #36273B;
+}
+
+.browse_words {
+    padding: 100px
+}
