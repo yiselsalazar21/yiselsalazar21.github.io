@@ -43,6 +43,15 @@
     background-color: #BDE4E7;
 }
 
+.resource_background {
+    height: 100vh;
+    min-height: 500px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: #BDE7D1;
+}
+
 .browse_container {
     background-color:#f8c8d0;
     background-position: center;
