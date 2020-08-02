@@ -43,6 +43,15 @@
     background-color: #BDE4E7;
 }
 
+.about_background {
+    height: 100vh;
+    min-height: 500px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: #FFF8D4;
+}
+
 .resource_background {
     height: 100vh;
     min-height: 500px;
@@ -70,4 +79,13 @@
 
 .browse_words {
     padding: 100px;
+}
+
+.resource_container {
+    background-color:white;
+    background-position: center;
+    text-align: center;
+    padding:100px;
+    width: 100%;
+;
 }
